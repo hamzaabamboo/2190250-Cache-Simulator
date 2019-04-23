@@ -1,0 +1,5 @@
+CacheSim
+node_modules
+*.gsheet
+*.gdoc
+out
